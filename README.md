@@ -2,7 +2,7 @@
 
 This project was written in C++.
 The project requires you to install GLFW library.
-
+This project simulates a spinning 3D cube
 Note: in the main function you can control the way the cube spins by enabling or disabling the "spin_cube_in_#_direction() functions.
 
 
